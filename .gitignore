@@ -1,5 +1,12 @@
 HELP.md
 target/
+.idea
+.mvn
+/pom.xml
+HELP.md
+target
+mvnw.cmd
+mvnw
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
